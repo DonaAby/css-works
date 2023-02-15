@@ -1,0 +1,118 @@
+body{
+    
+    background-color: black;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+.parent{
+   
+    width: 50%;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.child{
+    width: 130px;
+    height: 180px;
+    margin-left: 17px;
+    float: left ;
+}
+.col1{
+    margin-left: ;
+    background-color: grey;
+}
+.col2{
+    background-color: darkseagreen;
+}
+.col3{
+    background-color: forestgreen;
+}
+.col4{
+    background-color: chartreuse ;
+}
+.col5{
+    background-color: white;
+}
+.family{
+    width: 70%;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+}
+.kid{
+    width: 130px;
+    height: 150px;
+    margin-left: 17px;
+    float: left;
+   
+
+}
+.row1{
+    
+    background-color: orange;
+}
+.row2{
+    background-color: salmon;
+}
+.row3{
+    background-color: pink;
+}
+.row4{
+    background-color: mediumorchid;
+}
+.row5{
+    background-color: purple;
+}
+.row6{
+background-color: mediumorchid;
+}
+.row7{
+    background-color: lightgrey;
+}
+.master{
+    width: 90%;
+    height: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    
+}
+.sub{
+    width: 130px;
+    height: 150px;
+    margin-left: 17px;
+    float: left;
+    
+}
+.down1{
+  
+    background-color: aqua;
+}
+.down2{
+    background-color: palegreen;
+}
+.down3{
+    background-color: gold;
+}
+.down4{
+    background-color: deeppink;
+}
+.down5{
+    background-color: brown;
+}
+.down6{
+    background-color: aquamarine;
+}
+.down7{
+    background-color: darkseagreen;
+}
+.down8{
+    background-color: mediumpurple;
+}
+.down9{
+    background-color: mediumvioletred;
+}
